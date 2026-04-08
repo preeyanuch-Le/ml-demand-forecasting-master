@@ -1,0 +1,35 @@
+pandas==1.4.2
+numpy==1.22.4
+seaborn==0.11.2
+catboost==1.0.6
+awswrangler==2.15.1
+matplotlib==3.5.2
+black==22.1.0
+ipykernel==6.9.2
+ipython==8.1.1
+click==8.0.4
+jupytext==1.13.8
+boto3==1.23.9;  
+botocore==1.26.9;  
+catboost==1.0.6
+et-xmlfile==1.1.0;  
+joblib==1.1.0; 
+jsonpath-ng==1.5.3; 
+openpyxl==3.0.10;  
+plotly==5.8.0;
+redshift-connector==2.0.907;  
+requests-aws4auth==1.1.2; 
+requests==2.27.1;  
+s3transfer==0.5.2;  
+scikit-learn==1.1.1; 
+scipy==1.8.1; 
+sklearn==0.0;
+urllib3==1.26.9;  
+yarl==1.7.2;  
+tensorflow==2.9.1; sys_platform != 'darwin' or platform_machine != 'arm64'
+tensorflow-macos==2.9.1; sys_platform == 'darwin' and platform_machine == 'arm64'
+google-api-python-client==2.51.0;
+oauth2client==4.1.1;
+gspread==5.4.0;
+hvac==0.11.2;
+psycopg2==2.9.3;
